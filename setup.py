@@ -26,7 +26,6 @@ setup(
     long_description    = long_description,
     author              = __author__,
     author_email        = __email__,
-    url                 = 'https://github.com/decoxviii/userrecon-py',
     packages            = find_packages(),
     scripts             = ['bin/userrecon-py'],
     license             = __license__,
